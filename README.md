@@ -57,7 +57,7 @@ A su vez, no podemos dar cuenta de la cercanía de estos barrios entre sí, por 
 
 ![Cantidad de bibliotecas por comuna](img/barplot_bibliotecas_por_comuna.png)
 
-## Ambos gráficos muestran la misma información: en este caso, consideré que presentarlos en un mapa coroplético. Los tonos más oscuros representan las comunas que tienen mayor cantidad de bibliotecas.
+## Ambos gráficos muestran la misma información: en este caso, consideré presentarlos en un mapa coroplético. Los tonos más oscuros representan las comunas que tienen mayor cantidad de bibliotecas.
 ### Mapa
 
 ![Cantidad de bibliotecas por comuna](img/mapa_bibliotecas_por_comuna.png)
